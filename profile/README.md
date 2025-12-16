@@ -1,4 +1,3 @@
-<img align="center" src="https://github.com/UP-Value-Solucoes/.github/blob/main/img/oficial_UPvalue.png">
 
 <h1 align="center"> Transfomando o futuro! </h1> 
 
@@ -18,34 +17,6 @@
   />
 </picture>  
 </p>
-
----
-
-## Time Tech 🖥️
-
-<table>
-  
-  <tr align="center">
-    <td><img src="https://avatars.githubusercontent.com/u/74565748?v=4" alt="Imagem 1"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/169667390?v=4" alt="Imagem 5"></td>
-  </tr>
-  <tr align="center">
-    <td><a href="https://github.com/BernardoVictor" target="blank">Victor Bernardo</a></td>
-    <td><a href="https://github.com/AndersonReges" target="blank">Anderson Reges</a></td>
-  </tr>
-
-  <tr align="center">
-    <td><img src="https://avatars.githubusercontent.com/u/161530021?v=4" alt="Imagem 5"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/161596542?v=4" alt="Imagem 5"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/165200170?v=4" alt="Imagem 5"></td>
-  </tr>
-  <td align="center"
-   <td><a href="https://github.com/mariaisabeleup" target="blank">Isabele Oliveira</a></td>
-   <td><a href="https://github.com/GNovaisDev" target="blank">Gabriel Novais</a></td>
-   <td><a href="https://github.com/KauanCodes" target="blank">Kauan Deyvid</a></td>
-  </td>
-  
-</table>
 
 ---
 
